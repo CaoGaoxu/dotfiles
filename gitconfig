@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = C130063@e.ntu.edu.sg
+	name = Jackson Cao
